@@ -1,6 +1,10 @@
 # [Project](https://github.com/AsselyaRaim/WebProjectSpring2022/blob/main/Project%20requirements.pdf)
 ## WebDev Project
 
+### Configuration
+1. npm install for dependencies (Angular Front-End)
+2. pip python packages from requirements.txt (Django Back-End) 
+
 ### Components
 
 - [x] Welcome page:
