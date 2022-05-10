@@ -3,7 +3,7 @@
 
 ### Configuration
 1. [npm install](https://angular.io/guide/npm-packages) for dependencies (Angular Front-End)
-2. pip python packages from requirements.txt (Django Back-End) 
+2. pip install -r requirements.txt (Django Back-End) 
 
 ### Components
 
