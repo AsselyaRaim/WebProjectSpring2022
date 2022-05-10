@@ -2,7 +2,7 @@
 ## WebDev Project
 
 ### Configuration
-1. npm install for dependencies (Angular Front-End)
+1. ![npm install](https://angular.io/guide/npm-packages) for dependencies (Angular Front-End)
 2. pip python packages from requirements.txt (Django Back-End) 
 
 ### Components
