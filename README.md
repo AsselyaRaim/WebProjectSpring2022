@@ -1,5 +1,5 @@
-# [Project](https://github.com/AsselyaRaim/WebProjectSpring2022/blob/main/Project%20requirements.pdf)
-## WebDev Project
+# [Project requirements](https://github.com/AsselyaRaim/WebProjectSpring2022/blob/main/Project%20requirements.pdf)
+## WebDev Project CryptoTracker
 
 ### Configuration
 1. [npm install](https://angular.io/guide/npm-packages) for dependencies (Angular Front-End)
